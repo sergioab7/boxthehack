@@ -72,4 +72,4 @@ python3 boxthehack.py
 ```
 
 
-<p> Porfavor, agradecería que me ayudaras a mejorar, como podrás observar soy noob programando, si ves que cosa puedo corregir, o como debería de hacer alguna cosa, contactame via twitter: <a href="https://twitter.com/xaxxjs"></a>. Lo apreciaría mucho. Muchas gracias </p>
+<p> Porfavor, agradecería que me ayudaras a mejorar, como podrás observar soy noob programando, si ves que cosa puedo corregir, o como debería de hacer alguna cosa, contáctame via twitter: <a href="https://twitter.com/xaxxjs"></a>. Lo apreciaría mucho. Muchas gracias </p>
