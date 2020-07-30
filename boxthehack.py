@@ -33,7 +33,6 @@ def signal_handler(key,frame):
 
 signal=signal.signal(signal.SIGINT,signal_handler)
 
-#api="P884J96j657M7DlgJElLgJPriuSlfeNa0IgGcoyqKBHIENfP2qoxBMWXPKdm"
 
 banner=Fore.GREEN + """
        __               __  __         __               __  
