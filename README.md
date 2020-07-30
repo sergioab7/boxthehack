@@ -6,6 +6,12 @@
     style="float: left; margin-right:10px;" />
 </p>
 
+
+## API DE: <a href="https://gitlab.com/sw1tchbl4d3/htbapi/-/wikis/How-do-I-get-my-API-Token%3F">sw1tchbl4d3</a>
+
+<p> Muchas gracias por la API, para cualquier cosa similar, podéis ayudaros de ahí.</p>
+
+
 ## BoxTheHack
 
 <p> Script hecho en python3 para la automatización de tareas en la página: <a href="https://www.hackthebox.eu/">HackTheBox</a></p>
@@ -16,6 +22,7 @@
   <li>Social</li>
   <li>Challenges</li>
 </ul>
+
 
 
 ## :trophy: Maquinas
