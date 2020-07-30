@@ -367,7 +367,7 @@ def social():
             comando=input(bcolors.UNDERLINE + "boxthehack" + bcolors.ENDC + "/(SOCIAL)> ")
             comando=comando.lower()
             if(comando=="help"):
-                comandos_maquina()
+                comandos_social()
             elif(comando=="back"):
                 break
             elif(comando=="1"):
